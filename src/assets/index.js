@@ -37,7 +37,9 @@ import vercel from "./vercel_logo.png";
 import todo from "./todo.png";
 import slider from "./slider.png";
 import tictac from "./tictactoe.png";
+import movies from "./moviesimg.png";
 export {
+  movies,
   tictac,
   todo,
   slider,

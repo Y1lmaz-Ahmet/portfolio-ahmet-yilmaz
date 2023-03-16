@@ -23,6 +23,7 @@ import {
   todo,
   slider,
   tictac,
+  movies,
 } from "../assets";
 
 export const navLinks = [
@@ -259,6 +260,29 @@ const projects = [
     vercel: "https://tic-tac-toe-seven-tau.vercel.app/",
     image_vercel: vercel,
     source_code_link: "https://github.com/Y1lmaz-Ahmet/TIC-TAC-TOE",
+  },
+  {
+    name: "Movies website",
+    description:
+      "a game in which two players seek in alternate turns to complete a row, a column, or a diagonal with either three O's or three X's drawn in the spaces of a grid of nine squares; noughts and crosses",
+    tags: [
+      {
+        name: "REACT",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Next-13",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: movies,
+    vercel: "https://next13-experiment-khaki.vercel.app/",
+    image_vercel: vercel,
+    source_code_link: "https://github.com/Y1lmaz-Ahmet/next13-experiment",
   },
 ];
 
