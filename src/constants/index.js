@@ -271,11 +271,11 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "CSS",
+        name: "TAILWINDCSS",
         color: "green-text-gradient",
       },
       {
-        name: "Next-13",
+        name: "NEXT-13",
         color: "pink-text-gradient",
       },
     ],
